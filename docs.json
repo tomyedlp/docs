@@ -22,9 +22,7 @@
                 "group": "Core endpoints",
                 "icon": "square-terminal",
                 "pages": [
-                  "api-reference/get",
-                  "api-reference/post",
-                  "api-reference/delete"
+                  "test/example"
                 ]
               }
             ]
